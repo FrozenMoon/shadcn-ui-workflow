@@ -49,7 +49,7 @@ description: >
 - 是否需要明暗主题切换
 - 圆角偏好（shadcn 默认 / 更圆润 / 更方正）
 
-**详细模板**：见 [templates/theme-customization.md](templates/theme-customization.md)
+**详细模板**：见 [assets/theme-customization.md](assets/theme-customization.md)
 
 ---
 
@@ -68,7 +68,7 @@ description: >
 - ✅ 布局和间距规范
 - ❌ ~~基础组件样式~~（shadcn 已定义）
 
-**详细模板**：见 [templates/spec-template.md](templates/spec-template.md)
+**详细模板**：见 [assets/spec-template.md](assets/spec-template.md)
 
 ---
 
@@ -182,7 +182,7 @@ description: >
 shadcn-ui-workflow/
 ├── SKILL.md              # 本文件
 ├── README.md             # 使用说明
-├── templates/
+├── assets/
 │   ├── theme-customization.md  # 主题定制模板
 │   └── spec-template.md        # 规范文档模板
 └── references/

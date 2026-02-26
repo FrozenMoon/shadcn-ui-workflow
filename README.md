@@ -107,7 +107,7 @@ shadcn-ui-workflow/
 ├── SKILL.md                    # 主文件
 ├── README.md                   # 本文件
 ├── LICENSE                     # MIT 协议
-├── templates/
+├── assets/
 │   ├── theme-customization.md  # 主题定制模板
 │   └── spec-template.md        # 规范文档模板
 └── references/
